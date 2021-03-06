@@ -1,6 +1,6 @@
 import java.io.*;
 import java.lang.*;
- // Hi Im Sushant
+ // Hi Im Sushant it Java Program
 class Num
 {
 	public static void main(String[]args)
